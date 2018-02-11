@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+hr {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+section,
+footer {
+    padding: 30px 15px;
+}
+
+ul {
+    padding-right: 20px;
+}
+
+.logo {
+    padding-left: 20px;
+}
+
+#slider {
+    background-color: darkgrey;
+    padding-bottom: 100px;
+    padding-top: 150px;
+}
+
+.strips {
+    bottom: -80px;
+}
+
+.main-text {
+    font-size: 1.5em;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: darkgrey;
+    border-radius: 50%;
+}
+
+.squere {
+    width: 500px;
+    height: 500px;
+    background-color: darkgrey;
+}
+
+.inner-text {
+    padding-top: 150px;
+}
+
+footer a {
+    margin-left: 15px;
+}
